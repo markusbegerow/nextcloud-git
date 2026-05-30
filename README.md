@@ -29,7 +29,6 @@
 |---|---|
 | Nextcloud | 27 – 33 |
 | PHP | 8.1+ |
-| git | any version available on the server |
 
 ---
 
