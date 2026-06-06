@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#fff">
+  <!-- git branch icon -->
+  <circle cx="6" cy="6" r="2"/>
+  <circle cx="6" cy="18" r="2"/>
+  <circle cx="18" cy="6" r="2"/>
+  <path d="M6 8v8" stroke="#fff" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <path d="M8 6h4a4 4 0 0 1 4 4v0" stroke="#fff" stroke-width="2" stroke-linecap="round" fill="none"/>
+</svg>

@@ -1,0 +1,26 @@
+{
+    "name": "git",
+    "version": "1.0.0",
+    "description": "Git repository hosting for Nextcloud",
+    "scripts": {
+        "dev": "webpack --config webpack.config.js --watch",
+        "build": "webpack --config webpack.config.js",
+        "lint": "eslint --ext .js,.vue src/"
+    },
+    "dependencies": {
+        "@nextcloud/axios": "^2.5.1",
+        "@nextcloud/l10n": "^3.1.0",
+        "@nextcloud/router": "^3.0.1",
+        "@nextcloud/vue": "^9",
+        "highlight.js": "^11.11.1",
+        "lucide-vue-next": "^0.468.0",
+        "marked": "^18.0.4",
+        "vue": "^3.4.0",
+        "vue-router": "^5.1.0"
+    },
+    "devDependencies": {
+        "@nextcloud/eslint-config": "^8.4.1",
+        "@nextcloud/webpack-vue-config": "^6.1.0",
+        "webpack-merge": "^5.10.0"
+    }
+}

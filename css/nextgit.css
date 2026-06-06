@@ -1,0 +1,12 @@
+/* NextGit – global styles (loaded by PageController, scoped styles live in App.vue) */
+
+#git-root {
+    display: flex;
+    height: 100%;
+    width: 100%;
+}
+
+/* Ensure NcContent fills the available space */
+#git-root > * {
+    width: 100%;
+}
